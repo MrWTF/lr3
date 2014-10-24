@@ -1,4 +1,5 @@
 #include "sdt.h"
+//Учебная программа
 int main ()
 {
    double x,y,sum,razn;
