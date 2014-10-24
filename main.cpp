@@ -2,6 +2,7 @@
 //Учебная программа
 int main ()
 {
+   double x,y,sum,razn,div;
    double x,y,sum,razn,mult;
    cout<<"Enter 2 numbers \n";
    cin>>x;
@@ -12,4 +13,6 @@ int main ()
    cout<<"Difference = "<<razn<<"\n";
    mult=x*y;
    cout<<"Multiplication = "<<mult<<"\n";
+   div=x/y;
+   cout<<"Division = "<<div<<"\n";
 }
