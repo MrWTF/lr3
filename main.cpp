@@ -2,8 +2,7 @@
 //Учебная программа
 int main ()
 {
-   double x,y,sum,razn,div;
-   double x,y,sum,razn,mult;
+   double x,y,sum,razn,div,mult;
    cout<<"Enter 2 numbers \n";
    cin>>x;
    cin>>y;
